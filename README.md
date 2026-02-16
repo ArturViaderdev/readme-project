@@ -11,3 +11,8 @@ Aquesta línia s'ha afegit des de GitHub.
 
 ## Instal·lació
 Conflicte resolt manualment entre dues branques.
+
+##Clonació del projecte
+Per clonar aquest repositori al teu ordinador:
+
+git clone https://github.com/ArturViaderdev/readme-project.git
