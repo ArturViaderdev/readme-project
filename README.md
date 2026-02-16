@@ -10,5 +10,4 @@ Aquesta línia s'ha afegit des del meu ordinador.
 Aquesta línia s'ha afegit des de GitHub.
 
 ## Instal·lació
-
-Aquesta frase és de la branca 2.
+Conflicte resolt manualment entre dues branques.
